@@ -10,13 +10,21 @@ You'll learn:
 1. 🎯 **Why Finetuning**:
 <p align="center">
 <img src="images/01_2.png" width="350" > 
+<img src="images/01_3.png" width="350" > 
+</p>
+
+2. 🎯 **Where Finetuning fits in**: Gain insights into when and why you should apply finetuning to LLMs for optimal results.
+<p align="center">
+<img src="images/02_3.png" width="350" > 
+<img src="images/02_4.png" width="350" > 
+<img src="images/02_7.png" width="350" > 
 </p>
    
-2. 🎯 **When to Apply Finetuning**: Gain insights into when and why you should apply finetuning to LLMs for optimal results.
+4. 🎯 **When to Apply Finetuning**: Gain insights into when and why you should apply finetuning to LLMs for optimal results.
    
-3. 📦 **Data Preparation**: Learn how to prepare your data effectively to get the most out of your finetuning process.
+5. 📦 **Data Preparation**: Learn how to prepare your data effectively to get the most out of your finetuning process.
    
-4. 🧠 **Training and Evaluation**: Discover how to train and evaluate an LLM on your data to achieve superior performance.
+6. 🧠 **Training and Evaluation**: Discover how to train and evaluate an LLM on your data to achieve superior performance.
 
 By finetuning, you have the ability to adapt the model to your specific needs, update neural net weights, and improve the model's performance beyond traditional methods.
 
