@@ -1,6 +1,6 @@
 # 🚀 [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 
-📚 Welcome to the "Finetuning Large Language Models" course! Join our instructor, Sharon Zhou, Co-Founder and CEO of Lamini, and an expert in the field. Learn the ins and outs of finetuning Large Language Models (LLMs) to supercharge your NLP projects.
+📚 Welcome to the "Finetuning Large Language Models" course! Learn the ins and outs of finetuning Large Language Models (LLMs) to supercharge your NLP projects.
 
 ## Course Summary
 📖 This short course will equip you with the essential knowledge and skills to harness the power of finetuning in Large Language Models. Whether you are looking to fine-tune models for specific tasks or domains, this course covers it all.
