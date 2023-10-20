@@ -7,7 +7,7 @@
 
 You'll learn:
 
-1. 🎯 **Why Finetuning**:
+1. 🎯 **Why Finetuning**: By finetuning, you have the ability to adapt the model to your specific needs, update neural net weights, and improve the model's performance beyond traditional methods.
 <p align="center">
 <img src="images/01_2.png" width="350" > 
 <img src="images/01_3.png" width="350" > 
@@ -32,9 +32,11 @@ You'll learn:
 <img src="images/04_2.png" width="350" > 
 </p>
 
-6. 🧠 **Training and Evaluation**: Discover how to train and evaluate an LLM on your data to achieve superior performance.
-
-By finetuning, you have the ability to adapt the model to your specific needs, update neural net weights, and improve the model's performance beyond traditional methods.
+5. 🧠 **Training and Evaluation**: Discover how to train and evaluate an LLM on your data to achieve superior performance.
+<p align="center">
+<img src="images/05_1.png" width="350" > 
+<img src="images/06_1.png" width="350" > 
+</p>
 
 ## Key Takeaways
 - 🧭 Understand the strategic use of finetuning in Large Language Models.
