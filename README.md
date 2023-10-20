@@ -19,7 +19,13 @@ You'll learn:
 <img src="images/02_4.png" width="350" > 
 <img src="images/02_7.png" width="350" > 
 </p>
-   
+
+3. **Instruction tuning**:
+<p align="center">
+<img src="images/03_2.png" width="350" > 
+<img src="images/03_4.png" width="350" > 
+</p>
+
 4. 🎯 **When to Apply Finetuning**: Gain insights into when and why you should apply finetuning to LLMs for optimal results.
    
 5. 📦 **Data Preparation**: Learn how to prepare your data effectively to get the most out of your finetuning process.
