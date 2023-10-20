@@ -8,6 +8,9 @@
 You'll learn:
 
 1. 🎯 **Why Finetuning**:
+<p align="center">
+<img src="images/01_2.png" width="350" > 
+</p>
    
 2. 🎯 **When to Apply Finetuning**: Gain insights into when and why you should apply finetuning to LLMs for optimal results.
    
